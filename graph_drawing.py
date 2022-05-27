@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 12 16:37:32 2022
-
-@author: rhaen
-"""
 # importing libraries
 
 import pandas as pd
@@ -11,7 +5,7 @@ import networkx as nx
 import numpy as np
 import math
 
-#%% reading the csv file
+#%% Reading the csv file
 df=pd.read_csv('pdc-world-championship-20221994.csv',sep=";")
 
 print(df.head())
