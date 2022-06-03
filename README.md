@@ -1,4 +1,4 @@
-# Complex Networks Analyzing and Link Prediction on PDC World Championship Dataset
+# Complex Networks Analyzing and Link Prediction
 
 The tournament years for the networks analyzed in the study are given below:
 
