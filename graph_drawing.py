@@ -140,7 +140,6 @@ for i in range(len(player1)):
 
 
 #%% Adamic Adar Index
-
 Graphtype = nx.complete_graph(len(df))
 G1 = nx.from_pandas_edgelist(df, source = 'player_1name', target = 'player_2name', create_using=Graphtype)
 
