@@ -12,4 +12,4 @@ The tournament years for the networks analyzed in the study are given below:
 
 🔸 1994 - 2022
 
-Nodes represent tennis players and links represent tournament information.
+📝 Nodes represent tennis players and links represent tournament information.
