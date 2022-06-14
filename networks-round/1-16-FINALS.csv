@@ -1,0 +1,385 @@
+tournament_year,stage,player_1name,player_2name,player_1score,player_2score
+2022,1/16-FINALS,Anderson G.,White I.,4.0,3.0
+2022,1/16-FINALS,Aspinall N.,Rydz C.,0.0,4.0
+2022,1/16-FINALS,Chisnall D.,Humphries L.,,
+2022,1/16-FINALS,de Sousa J.,Soutar A.,3.0,4.0
+2022,1/16-FINALS,van Gerwen M.,Dobey C.,,
+2022,1/16-FINALS,Wright P.,Heta D.,4.0,2.0
+2022,1/16-FINALS,Cross R.,Gurney D.,4.0,3.0
+2022,1/16-FINALS,Cullen J.,Kleermaker M.,3.0,4.0
+2022,1/16-FINALS,Searle R.,Noppert D.,4.0,2.0
+2022,1/16-FINALS,Lennon S.,King M.,0.0,4.0
+2022,1/16-FINALS,Clayton J.,Clemens G.,4.0,0.0
+2022,1/16-FINALS,Price G.,Huybrechts K.,4.0,3.0
+2022,1/16-FINALS,Wade J.,Van der Voort V.,,
+2022,1/16-FINALS,Hempel F.,Smith R.,1.0,4.0
+2022,1/16-FINALS,Smith M.,O'Connor W.,4.0,2.0
+2022,1/16-FINALS,Smith R.,van Duijvenbode D.,3.0,4.0
+2021,1/16-FINALS,Chisnall D.,Noppert D.,4.0,2.0
+2021,1/16-FINALS,Lowe J.,Petersen D.,0.0,4.0
+2021,1/16-FINALS,Gurney D.,Dobey C.,4.0,1.0
+2021,1/16-FINALS,Wade J.,Bunting S.,2.0,4.0
+2021,1/16-FINALS,Durrant G.,Baggish D.,4.0,2.0
+2021,1/16-FINALS,Price G.,Dolan B.,4.0,3.0
+2021,1/16-FINALS,Anderson G.,Suljovic M.,4.0,3.0
+2021,1/16-FINALS,Aspinall N.,Van der Voort V.,2.0,4.0
+2021,1/16-FINALS,van Duijvenbode D.,Hunt A.,4.0,0.0
+2021,1/16-FINALS,de Sousa J.,King M.,0.0,4.0
+2021,1/16-FINALS,van Gerwen M.,Evans R.,4.0,0.0
+2021,1/16-FINALS,Wright P.,Clemens G.,3.0,4.0
+2021,1/16-FINALS,Cullen J.,Clayton J.,4.0,3.0
+2021,1/16-FINALS,van den Bergh D.,Wattimena J.,4.0,0.0
+2021,1/16-FINALS,Huybrechts K.,Searle R.,2.0,4.0
+2021,1/16-FINALS,Ratajski K.,Whitlock S.,4.0,0.0
+2020,1/16-FINALS,Price G.,Henderson J.,4.0,0.0
+2020,1/16-FINALS,Sherrock F.,Dobey C.,2.0,4.0
+2020,1/16-FINALS,Gurney D.,Durrant G.,2.0,4.0
+2020,1/16-FINALS,Whitlock S.,King M.,4.0,1.0
+2020,1/16-FINALS,Wright P.,Asada S.,4.0,2.0
+2020,1/16-FINALS,Anderson G.,Searle R.,4.0,3.0
+2020,1/16-FINALS,Chisnall D.,de Zwaan J.,3.0,4.0
+2020,1/16-FINALS,Woodhouse L.,van den Bergh D.,2.0,4.0
+2020,1/16-FINALS,Lewis A.,Webster D.,4.0,3.0
+2020,1/16-FINALS,Kurz N.,Humphries L.,2.0,4.0
+2020,1/16-FINALS,van Gerwen M.,Evans R.,4.0,0.0
+2020,1/16-FINALS,Huybrechts K.,Noppert D.,4.0,2.0
+2020,1/16-FINALS,Wade J.,Beaton S.,2.0,4.0
+2020,1/16-FINALS,Aspinall N.,Ratajski K.,4.0,3.0
+2020,1/16-FINALS,Labanauskas D.,Hopp M.,4.0,2.0
+2020,1/16-FINALS,Clayton J.,Bunting S.,0.0,4.0
+2019,1/16-FINALS,Alcinas T.,van de Pas B.,2.0,4.0
+2019,1/16-FINALS,Smith M.,Henderson J.,4.0,2.0
+2019,1/16-FINALS,van den Bergh D.,Humphries L.,1.0,4.0
+2019,1/16-FINALS,Petersen D.,West S.,4.0,2.0
+2019,1/16-FINALS,Cross R.,Reyes C.,4.0,0.0
+2019,1/16-FINALS,Aspinall N.,Anderson K.,4.0,1.0
+2019,1/16-FINALS,Lewis A.,Labanauskas D.,4.0,0.0
+2019,1/16-FINALS,Wade J.,Brown K.,4.0,3.0
+2019,1/16-FINALS,Dolan B.,King M.,4.0,2.0
+2019,1/16-FINALS,Van der Voort V.,Dobey C.,3.0,4.0
+2019,1/16-FINALS,van Gerwen M.,Hopp M.,4.0,1.0
+2019,1/16-FINALS,Anderson G.,Wattimena J.,4.0,3.0
+2019,1/16-FINALS,Searle R.,O'Connor W.,4.0,1.0
+2019,1/16-FINALS,Gurney D.,Lewis J.,3.0,4.0
+2019,1/16-FINALS,Chisnall D.,Huybrechts K.,4.0,0.0
+2019,1/16-FINALS,Joyce R.,Norris A.,4.0,3.0
+2018,1/16-FINALS,Wright P.,Lewis J.,1.0,4.0
+2018,1/16-FINALS,Munch K.,Alcinas T.,1.0,4.0
+2018,1/16-FINALS,Norris A.,Richardson J.,1.0,4.0
+2018,1/16-FINALS,Whitlock S.,Webster D.,1.0,4.0
+2018,1/16-FINALS,van Barneveld R.,Anderson K.,4.0,1.0
+2018,1/16-FINALS,Taylor P.,Pipe J.,4.0,0.0
+2018,1/16-FINALS,Gurney D.,Henderson J.,2.0,4.0
+2018,1/16-FINALS,West S.,Wattimena J.,4.0,1.0
+2018,1/16-FINALS,Smith M.,Cross R.,3.0,4.0
+2018,1/16-FINALS,Brown K.,Lerchbacher Z.,4.0,2.0
+2018,1/16-FINALS,van Gerwen M.,Wilson J.,4.0,0.0
+2018,1/16-FINALS,Anderson G.,Lim P.,4.0,1.0
+2018,1/16-FINALS,Suljovic M.,Thornton R.,4.0,2.0
+2018,1/16-FINALS,Dekker J.,van den Bergh D.,2.0,4.0
+2018,1/16-FINALS,Van der Voort V.,Beaton S.,4.0,0.0
+2018,1/16-FINALS,Price G.,White I.,4.0,1.0
+2017,1/16-FINALS,Wright P.,Lewis J.,4.0,0.0
+2017,1/16-FINALS,Klaasen J.,Dolan B.,4.0,0.0
+2017,1/16-FINALS,Wade J.,Beaton S.,4.0,1.0
+2017,1/16-FINALS,Huybrechts K.,Hopp M.,4.0,0.0
+2017,1/16-FINALS,van Gerwen M.,Reyes C.,4.0,2.0
+2017,1/16-FINALS,Taylor P.,Painter K.,4.0,0.0
+2017,1/16-FINALS,van Barneveld R.,Norris A.,4.0,0.0
+2017,1/16-FINALS,Chisnall D.,Dobey C.,4.0,2.0
+2017,1/16-FINALS,Thornton R.,Gurney D.,3.0,4.0
+2017,1/16-FINALS,Suljovic M.,Webster M.,3.0,4.0
+2017,1/16-FINALS,Lewis A.,Cullen J.,4.0,0.0
+2017,1/16-FINALS,Anderson G.,Gilding A.,4.0,0.0
+2017,1/16-FINALS,Webster D.,Whitlock S.,4.0,0.0
+2017,1/16-FINALS,van de Pas B.,Jenkins T.,4.0,3.0
+2017,1/16-FINALS,Smith M.,King M.,4.0,3.0
+2017,1/16-FINALS,White I.,Clayton J.,4.0,1.0
+2016,1/16-FINALS,King M.,Klaasen J.,2.0,4.0
+2016,1/16-FINALS,Taylor P.,Painter K.,4.0,1.0
+2016,1/16-FINALS,Wright P.,Huybrechts R.,4.0,0.0
+2016,1/16-FINALS,Lewis A.,Gilding A.,4.0,0.0
+2016,1/16-FINALS,Pallett D.,Suljovic M.,3.0,4.0
+2016,1/16-FINALS,Jenkins T.,Webster M.,0.0,4.0
+2016,1/16-FINALS,Norris A.,Murnan J.,4.0,1.0
+2016,1/16-FINALS,van Gerwen M.,Webster D.,4.0,0.0
+2016,1/16-FINALS,Wade J.,Newton W.,4.0,0.0
+2016,1/16-FINALS,van Barneveld R.,Bunting S.,4.0,3.0
+2016,1/16-FINALS,Van der Voort V.,Anderson K.,4.0,2.0
+2016,1/16-FINALS,van den Bergh D.,van de Pas B.,2.0,4.0
+2016,1/16-FINALS,Smith M.,Beaton S.,4.0,2.0
+2016,1/16-FINALS,Anderson G.,Gurney D.,4.0,1.0
+2016,1/16-FINALS,Chisnall D.,Kist C.,4.0,1.0
+2016,1/16-FINALS,Evans R.,Caven J.,0.0,4.0
+2015,1/16-FINALS,Wade J.,Bunting S.,1.0,4.0
+2015,1/16-FINALS,van Barneveld R.,Caven J.,4.0,3.0
+2015,1/16-FINALS,Hopp M.,Van der Voort V.,0.0,4.0
+2015,1/16-FINALS,Dolan B.,Smith M.,2.0,4.0
+2015,1/16-FINALS,Lewis A.,Brown K.,4.0,2.0
+2015,1/16-FINALS,Taylor P.,Webster M.,4.0,0.0
+2015,1/16-FINALS,Webster D.,Winstanley D.,3.0,4.0
+2015,1/16-FINALS,White I.,Huybrechts K.,3.0,4.0
+2015,1/16-FINALS,Reyes C.,Painter K.,4.0,3.0
+2015,1/16-FINALS,Hamilton A.,Anderson K.,4.0,2.0
+2015,1/16-FINALS,Anderson G.,Klaasen J.,4.0,3.0
+2015,1/16-FINALS,van Gerwen M.,Stein S.,4.0,1.0
+2015,1/16-FINALS,Chisnall D.,van de Pas B.,2.0,4.0
+2015,1/16-FINALS,Wright P.,Huybrechts R.,4.0,1.0
+2015,1/16-FINALS,Jenkins T.,Ryder L.,4.0,0.0
+2015,1/16-FINALS,Thornton R.,Baxter R.,4.0,0.0
+2014,1/16-FINALS,Pipe J.,Petersen D.,1.0,4.0
+2014,1/16-FINALS,Lewis A.,Van der Voort V.,4.0,1.0
+2014,1/16-FINALS,King M.,Evans R.,4.0,2.0
+2014,1/16-FINALS,Wade J.,Smith A.,4.0,3.0
+2014,1/16-FINALS,van Gerwen M.,McDine K.,4.0,1.0
+2014,1/16-FINALS,Henderson J.,Webster M.,3.0,4.0
+2014,1/16-FINALS,Newton W.,Part J.,4.0,0.0
+2014,1/16-FINALS,Whitlock S.,Komula J.,4.0,0.0
+2014,1/16-FINALS,Painter K.,Nicholson P.,4.0,0.0
+2014,1/16-FINALS,Dolan B.,Anderson G.,1.0,4.0
+2014,1/16-FINALS,Huybrechts K.,White I.,3.0,4.0
+2014,1/16-FINALS,Thornton R.,Anderson B.,4.0,0.0
+2014,1/16-FINALS,Hamilton A.,Burnett R.,1.0,4.0
+2014,1/16-FINALS,Taylor P.,Smith M.,3.0,4.0
+2014,1/16-FINALS,van Barneveld R.,Caven J.,4.0,3.0
+2014,1/16-FINALS,Wright P.,Laursen P.,4.0,2.0
+2013,1/16-FINALS,van Gerwen M.,Wright P.,4.0,2.0
+2013,1/16-FINALS,Wade J.,Beaton S.,4.0,2.0
+2013,1/16-FINALS,Winstanley D.,Van der Voort V.,2.0,4.0
+2013,1/16-FINALS,Pipe J.,Walsh M.,2.0,4.0
+2013,1/16-FINALS,Lewis A.,Ovens D.,4.0,1.0
+2013,1/16-FINALS,Whitlock S.,Osborne C.,4.0,0.0
+2013,1/16-FINALS,Newton W.,Rand S.,4.0,0.0
+2013,1/16-FINALS,van Barneveld R.,Dolan B.,4.0,1.0
+2013,1/16-FINALS,Webster M.,Lloyd C.,2.0,4.0
+2013,1/16-FINALS,Painter K.,Baxter R.,4.0,3.0
+2013,1/16-FINALS,Taylor P.,Hendriks J.,4.0,1.0
+2013,1/16-FINALS,Nicholson P.,Thornton R.,3.0,4.0
+2013,1/16-FINALS,Jenkins T.,Part J.,4.0,1.0
+2013,1/16-FINALS,Anderson G.,Bowles J.,4.0,3.0
+2013,1/16-FINALS,Chisnall D.,Gurney D.,4.0,1.0
+2013,1/16-FINALS,Hamilton A.,Burnett R.,4.0,1.0
+2012,1/16-FINALS,Anderson G.,Petersen D.,4.0,2.0
+2012,1/16-FINALS,Lloyd C.,Rand S.,4.0,1.0
+2012,1/16-FINALS,Whitlock S.,Beaton S.,4.0,1.0
+2012,1/16-FINALS,King M.,van Gerwen M.,1.0,4.0
+2012,1/16-FINALS,Nicholson P.,Tabern A.,4.0,0.0
+2012,1/16-FINALS,Taylor P.,Chisnall D.,1.0,4.0
+2012,1/16-FINALS,Richardson J.,Huybrechts K.,1.0,4.0
+2012,1/16-FINALS,Van der Voort V.,Hamilton A.,3.0,4.0
+2012,1/16-FINALS,Burnett R.,Part J.,1.0,4.0
+2012,1/16-FINALS,Jenkins T.,Stompe C.,4.0,1.0
+2012,1/16-FINALS,Farmer S.,Munch K.,4.0,2.0
+2012,1/16-FINALS,Wade J.,Klaasen J.,4.0,0.0
+2012,1/16-FINALS,Walsh M.,Painter K.,3.0,4.0
+2012,1/16-FINALS,Newton W.,Pipe J.,3.0,4.0
+2012,1/16-FINALS,Lewis A.,Thornton R.,4.0,2.0
+2012,1/16-FINALS,Jones W.,Scholten R.,4.0,0.0
+2011,1/16-FINALS,van Barneveld R.,McDine K.,4.0,1.0
+2011,1/16-FINALS,King M.,Smith A.,3.0,4.0
+2011,1/16-FINALS,Anderson G.,Priestley D.,4.0,2.0
+2011,1/16-FINALS,Osborne C.,Caven J.,4.0,0.0
+2011,1/16-FINALS,Wade J.,Suljovic M.,2.0,4.0
+2011,1/16-FINALS,Whitlock S.,Ovens D.,4.0,0.0
+2011,1/16-FINALS,Newton W.,Dolan B.,4.0,0.0
+2011,1/16-FINALS,Jenkins T.,Brown S.,4.0,1.0
+2011,1/16-FINALS,Jones W.,Van der Voort V.,2.0,4.0
+2011,1/16-FINALS,Walsh M.,Tabern A.,4.0,3.0
+2011,1/16-FINALS,Taylor P.,Laursen P.,4.0,0.0
+2011,1/16-FINALS,Lewis A.,Dudbridge M.,4.0,1.0
+2011,1/16-FINALS,Lloyd C.,Hylton M.,2.0,4.0
+2011,1/16-FINALS,Hamilton A.,Thornton R.,0.0,4.0
+2011,1/16-FINALS,Nicholson P.,Wright P.,2.0,4.0
+2011,1/16-FINALS,Baxter R.,Webster M.,0.0,4.0
+2010,1/16-FINALS,Wade J.,van Gerwen M.,4.0,2.0
+2010,1/16-FINALS,Whitlock S.,Jones W.,4.0,0.0
+2010,1/16-FINALS,Jenkins T.,Young D.,4.0,0.0
+2010,1/16-FINALS,Hamilton A.,Beaton S.,4.0,1.0
+2010,1/16-FINALS,Baxter R.,Anderson G.,4.0,0.0
+2010,1/16-FINALS,van Barneveld R.,Dolan B.,4.0,0.0
+2010,1/16-FINALS,Webster M.,Manley P.,4.0,2.0
+2010,1/16-FINALS,Painter K.,Van der Voort V.,4.0,3.0
+2010,1/16-FINALS,Part J.,Shepherd K.,1.0,4.0
+2010,1/16-FINALS,Lloyd C.,Ovens D.,4.0,3.0
+2010,1/16-FINALS,Thornton R.,Artut J.,4.0,1.0
+2010,1/16-FINALS,Taylor P.,Hine S.,4.0,0.0
+2010,1/16-FINALS,Tabern A.,Dudbridge M.,3.0,4.0
+2010,1/16-FINALS,Lewis A.,Newton W.,4.0,2.0
+2010,1/16-FINALS,McDine K.,Bates B.,4.0,0.0
+2010,1/16-FINALS,King M.,Stompe C.,2.0,4.0
+2009,1/16-FINALS,Lewis A.,Nicholson P.,3.0,4.0
+2009,1/16-FINALS,Osborne C.,Van der Voort V.,1.0,4.0
+2009,1/16-FINALS,Wade J.,Eccles T.,4.0,2.0
+2009,1/16-FINALS,Baxter R.,Ovens D.,4.0,1.0
+2009,1/16-FINALS,Davis B.,Bates B.,2.0,4.0
+2009,1/16-FINALS,Hamilton A.,Ayres T.,4.0,2.0
+2009,1/16-FINALS,King M.,Walsh M.,4.0,2.0
+2009,1/16-FINALS,Klaasen J.,Van der Rassel J.,4.0,0.0
+2009,1/16-FINALS,van Barneveld R.,Newton W.,4.0,1.0
+2009,1/16-FINALS,Mardle W.,Thornton R.,4.0,3.0
+2009,1/16-FINALS,Priestley D.,Magowan J.,4.0,1.0
+2009,1/16-FINALS,Rodriguez C.,Painter K.,1.0,4.0
+2009,1/16-FINALS,Smith D.,McDine K.,4.0,3.0
+2009,1/16-FINALS,Suljovic M.,Dudbridge M.,0.0,4.0
+2009,1/16-FINALS,Tabern A.,Stompe C.,1.0,4.0
+2009,1/16-FINALS,Taylor P.,van Gerwen M.,4.0,0.0
+2008,1/16-FINALS,Baxter R.,Dudbridge M.,2.0,4.0
+2008,1/16-FINALS,Hamilton A.,Roy A.,1.0,4.0
+2008,1/16-FINALS,Maish S.,Eccles T.,3.0,4.0
+2008,1/16-FINALS,Bates B.,Extercatte E.,4.0,3.0
+2008,1/16-FINALS,Lewis A.,Van der Voort V.,4.0,2.0
+2008,1/16-FINALS,Painter K.,Mason C.,4.0,0.0
+2008,1/16-FINALS,Part J.,Suljovic M.,4.0,1.0
+2008,1/16-FINALS,Shepherd K.,McGowan M.,4.0,3.0
+2008,1/16-FINALS,van Barneveld R.,Clark J.,4.0,1.0
+2008,1/16-FINALS,Wade J.,Beaton S.,4.0,3.0
+2008,1/16-FINALS,Jenkins A.,Tabern A.,0.0,4.0
+2008,1/16-FINALS,Manley P.,Warriner-Little A.,4.0,1.0
+2008,1/16-FINALS,Mardle W.,Caven J.,4.0,1.0
+2008,1/16-FINALS,Scholten R.,King M.,4.0,2.0
+2008,1/16-FINALS,Taylor P.,Walsh M.,4.0,3.0
+2008,1/16-FINALS,Van der Rassel J.,Ovens D.,4.0,1.0
+2007,1/16-FINALS,Jenkins A.,Smith A.,4.0,2.0
+2007,1/16-FINALS,Osborne C.,Newton W.,4.0,2.0
+2007,1/16-FINALS,Priestley D.,Laursen P.,4.0,3.0
+2007,1/16-FINALS,Scholten R.,Roy A.,4.0,3.0
+2007,1/16-FINALS,Wade J.,Ladley D.,4.0,3.0
+2007,1/16-FINALS,Caves A.,Askew D.,2.0,4.0
+2007,1/16-FINALS,Dudbridge M.,Hamilton A.,3.0,4.0
+2007,1/16-FINALS,Ovens D.,Tabern A.,3.0,4.0
+2007,1/16-FINALS,Taylor P.,McGowan M.,4.0,1.0
+2007,1/16-FINALS,Gray A.,Webster D.,1.0,4.0
+2007,1/16-FINALS,Jenkins T.,Beaton S.,4.0,3.0
+2007,1/16-FINALS,Lewis A.,Jones W.,4.0,3.0
+2007,1/16-FINALS,Lloyd C.,van Barneveld R.,3.0,4.0
+2007,1/16-FINALS,Manley P.,Havenga W.,3.0,4.0
+2007,1/16-FINALS,Mason C.,Part J.,4.0,2.0
+2007,1/16-FINALS,Vonck R.,Cyr B.,4.0,2.0
+2006,1/16-FINALS,Carver R.,Smith A.,3.0,4.0
+2006,1/16-FINALS,Jenkins T.,Hamilton A.,1.0,4.0
+2006,1/16-FINALS,Mardle W.,Clarys E.,4.0,1.0
+2006,1/16-FINALS,Part J.,Mason C.,4.0,3.0
+2006,1/16-FINALS,Warriner-Little A.,Convery G.,4.0,0.0
+2006,1/16-FINALS,Dudbridge M.,Tabern A.,4.0,0.0
+2006,1/16-FINALS,Ovens D.,Alker S.,1.0,4.0
+2006,1/16-FINALS,Painter K.,Newton W.,4.0,3.0
+2006,1/16-FINALS,Priestley D.,Lewis A.,2.0,4.0
+2006,1/16-FINALS,Scholten R.,Seyler T.,4.0,2.0
+2006,1/16-FINALS,Taylor P.,Clark M.,4.0,1.0
+2006,1/16-FINALS,Walsh M.,Smith D.,0.0,4.0
+2006,1/16-FINALS,Jenkins A.,Jones W.,3.0,4.0
+2006,1/16-FINALS,Kuczynski J.,Van der Rassel J.,4.0,3.0
+2006,1/16-FINALS,Manley P.,Clark J.,4.0,3.0
+2006,1/16-FINALS,Welding G.,Extercatte E.,4.0,1.0
+2005,1/16-FINALS,Baxter R.,Jenkins T.,4.0,2.0
+2005,1/16-FINALS,Beaton S.,Hamilton A.,2.0,4.0
+2005,1/16-FINALS,Askew D.,Mason C.,3.0,4.0
+2005,1/16-FINALS,Jenkins A.,Evison P.,4.0,0.0
+2005,1/16-FINALS,Manley P.,Schenk J.,2.0,4.0
+2005,1/16-FINALS,Painter K.,Jones W.,4.0,2.0
+2005,1/16-FINALS,Priestley D.,Sams L.,4.0,1.0
+2005,1/16-FINALS,Smith D.,Anderson B.,2.0,4.0
+2005,1/16-FINALS,Taylor P.,Roy A.,4.0,0.0
+2005,1/16-FINALS,Dudbridge M.,Burnett R.,4.0,3.0
+2005,1/16-FINALS,Lloyd C.,Verwey J.,4.0,1.0
+2005,1/16-FINALS,Mardle W.,Walsh M.,4.0,2.0
+2005,1/16-FINALS,Ovens D.,Holden M.,4.0,1.0
+2005,1/16-FINALS,Part J.,Convery G.,4.0,1.0
+2005,1/16-FINALS,Scholten R.,Harvey J.,4.0,2.0
+2005,1/16-FINALS,Warriner-Little A.,Williams P.,1.0,4.0
+2004,1/16-FINALS,Ovens D.,Roy A.,3.0,4.0
+2004,1/16-FINALS,Warriner-Little A.,Lowe J.,4.0,3.0
+2004,1/16-FINALS,Burnett R.,Whatley S.,3.0,4.0
+2004,1/16-FINALS,Harvey J.,Beaton S.,0.0,4.0
+2004,1/16-FINALS,Lloyd C.,Evison P.,4.0,1.0
+2004,1/16-FINALS,Mardle W.,Maish S.,4.0,2.0
+2004,1/16-FINALS,Priestley D.,Buckle R.,4.0,3.0
+2004,1/16-FINALS,Scholten R.,Sams L.,2.0,4.0
+2004,1/16-FINALS,Taylor P.,McGarry C.,4.0,0.0
+2004,1/16-FINALS,Askew D.,Deller K.,3.0,4.0
+2004,1/16-FINALS,Baxter R.,Clarys E.,4.0,2.0
+2004,1/16-FINALS,Jenkins A.,Anderson B.,1.0,4.0
+2004,1/16-FINALS,Manley P.,Atwood W.,4.0,3.0
+2004,1/16-FINALS,Painter K.,Williams P.,4.0,3.0
+2004,1/16-FINALS,Part J.,Dudbridge M.,3.0,4.0
+2004,1/16-FINALS,Smith D.,Fitton L.,4.0,2.0
+2003,1/16-FINALS,Baxter R.,Manning M.,4.0,1.0
+2003,1/16-FINALS,Burnett R.,Deller K.,4.0,3.0
+2003,1/16-FINALS,Jenkins A.,Mason C.,2.0,4.0
+2003,1/16-FINALS,Lloyd C.,Anderson B.,4.0,3.0
+2003,1/16-FINALS,Manley P.,Whitlock S.,1.0,4.0
+2003,1/16-FINALS,Painter K.,Harding R.,4.0,1.0
+2003,1/16-FINALS,Askew D.,Beaton S.,4.0,3.0
+2003,1/16-FINALS,Lowe J.,Fitton L.,1.0,4.0
+2003,1/16-FINALS,Ovens D.,Roy A.,4.0,1.0
+2003,1/16-FINALS,Part J.,Lazarenko C.,4.0,1.0
+2003,1/16-FINALS,Scholten R.,Burgess S.,4.0,1.0
+2003,1/16-FINALS,Warriner-Little A.,Harrington R.,4.0,2.0
+2003,1/16-FINALS,Evison P.,Mardle W.,3.0,4.0
+2003,1/16-FINALS,Harvey J.,Holden M.,4.0,1.0
+2003,1/16-FINALS,Smith D.,Priestley D.,4.0,1.0
+2003,1/16-FINALS,Taylor P.,Brown S.,4.0,1.0
+2002,1/16-FINALS,Askew D.,Mason C.,4.0,3.0
+2002,1/16-FINALS,Baxter R.,Painter K.,4.0,2.0
+2002,1/16-FINALS,Beaton S.,Anderson B.,4.0,3.0
+2002,1/16-FINALS,Burnett R.,Evison P.,4.0,1.0
+2002,1/16-FINALS,Harrington R.,Deller K.,4.0,3.0
+2002,1/16-FINALS,Harvey J.,Burgess S.,3.0,4.0
+2002,1/16-FINALS,Lowe J.,Fitton L.,4.0,1.0
+2002,1/16-FINALS,Manley P.,Brown S.,4.0,1.0
+2002,1/16-FINALS,Ovens D.,Jenkins A.,4.0,3.0
+2002,1/16-FINALS,Part J.,Manning M.,4.0,2.0
+2002,1/16-FINALS,Priestley D.,Chapman M.,4.0,1.0
+2002,1/16-FINALS,Roy A.,Lloyd C.,2.0,4.0
+2002,1/16-FINALS,Scholten R.,Lazarenko C.,4.0,1.0
+2002,1/16-FINALS,Smith D.,Lim P.,4.0,0.0
+2002,1/16-FINALS,Taylor P.,Williams P.,4.0,1.0
+2002,1/16-FINALS,Warriner-Little A.,Harding R.,4.0,2.0
+2001,1/16-FINALS,Burgess S.,Scholten R.,0.0,3.0
+2001,1/16-FINALS,Harrington R.,Anderson B.,3.0,1.0
+2001,1/16-FINALS,Lazarenko C.,Cummings S.,3.0,0.0
+2001,1/16-FINALS,Lim P.,Lauby D. Sr.,3.0,1.0
+2001,1/16-FINALS,Part J.,Lloyd C.,3.0,0.0
+2001,1/16-FINALS,Smith D.,Evison P.,3.0,0.0
+2001,1/16-FINALS,Stoddart G.,King G.,3.0,1.0
+2001,1/16-FINALS,Warriner-Little A.,Harding R.,3.0,0.0
+2001,1/16-FINALS,Askew D.,Manning M.,3.0,2.0
+2001,1/16-FINALS,Burnett R.,Brown S.,3.0,0.0
+2001,1/16-FINALS,Fitton L.,Ovens D.,3.0,1.0
+2001,1/16-FINALS,Lowe J.,Spedding G.,3.0,1.0
+2001,1/16-FINALS,Manley P.,Harvey J.,2.0,3.0
+2001,1/16-FINALS,Priestley D.,Deller K.,2.0,3.0
+2001,1/16-FINALS,Roy A.,Raw S.,3.0,2.0
+2001,1/16-FINALS,Taylor P.,Justice N.,3.0,0.0
+2000,1/16-FINALS,Brown S.,Bristow E.,3.0,2.0
+2000,1/16-FINALS,Burgess S.,Lloyd C.,3.0,0.0
+2000,1/16-FINALS,Deller K.,Mawson G.,3.0,0.0
+2000,1/16-FINALS,Evison P.,Verrier G.,3.0,0.0
+2000,1/16-FINALS,Harrington R.,Lowe J.,2.0,3.0
+2000,1/16-FINALS,Harvey J.,Spiolek K.,3.0,2.0
+2000,1/16-FINALS,Justice N.,Allsopp D.,3.0,0.0
+2000,1/16-FINALS,Manley P.,Anderson B.,3.0,0.0
+2000,1/16-FINALS,Part J.,Bunyard J.,3.0,0.0
+2000,1/16-FINALS,Priestley D.,Roncero B.,3.0,2.0
+2000,1/16-FINALS,Raw S.,Cummings S.,3.0,2.0
+2000,1/16-FINALS,Roy A.,Harding R.,3.0,0.0
+2000,1/16-FINALS,Smith D.,Lazarenko C.,3.0,1.0
+2000,1/16-FINALS,Stoddart G.,Lauby D. Sr.,3.0,2.0
+2000,1/16-FINALS,Taylor P.,Manning M.,3.0,0.0
+2000,1/16-FINALS,Warriner-Little A.,Lim P.,3.0,0.0
+1999,1/16-FINALS,Allsopp D.,Lazarenko C.,0.0,3.0
+1999,1/16-FINALS,Brown S.,Spiolek K.,3.0,1.0
+1999,1/16-FINALS,Burgess S.,Cummings S.,3.0,0.0
+1999,1/16-FINALS,Deller K.,Anderson B.,2.0,3.0
+1999,1/16-FINALS,Downs S.,Robinson H.,2.0,3.0
+1999,1/16-FINALS,Evison P.,Smith D.,0.0,3.0
+1999,1/16-FINALS,Harrington R.,Roy A.,3.0,0.0
+1999,1/16-FINALS,Lauby D. Sr.,Manning M.,1.0,3.0
+1999,1/16-FINALS,Lowe J.,Lim P.,3.0,0.0
+1999,1/16-FINALS,Manley P.,Bristow E.,3.0,0.0
+1999,1/16-FINALS,Mawson G.,Gardner R.,3.0,0.0
+1999,1/16-FINALS,Priestley D.,Ferrell J.,0.0,3.0
+1999,1/16-FINALS,Raw S.,Stoddart G.,1.0,3.0
+1999,1/16-FINALS,Taylor P.,Harding R.,3.0,0.0
+1999,1/16-FINALS,Verrier G.,Harvey J.,1.0,3.0
+1999,1/16-FINALS,Warriner-Little A.,Part J.,3.0,0.0
