@@ -15,3 +15,5 @@ The tournament years for the networks analyzed in the study are given below:
 📝 Nodes represent dart players and links represent tournament information.
 
 These dataset obtained from official website of Professional Darts Corporation.
+
+📝The networks-round folder contains the division of networks based on tour names.
