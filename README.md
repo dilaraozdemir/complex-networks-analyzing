@@ -16,4 +16,8 @@ The tournament years for the networks analyzed in the study are given below:
 
 These dataset obtained from official website of Professional Darts Corporation.
 
-📝The networks-round folder contains the division of networks based on tour names.
+## Visualization of networks according to year intervals in gephi.
+
+🔸 1994 - 2000
+
+![1994-2000](/images/1994-2000.png)
