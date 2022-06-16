@@ -21,7 +21,7 @@ These dataset obtained from official website of Professional Darts Corporation.
 🔸 1994 - 2000
 
 
-<img src="/images/1994-2000.png" alt="1994-2000" style="height: 100px; width:100px;"/>
+<img src="/images/1994-2000.png" alt="1994-2000" style="height: 200px; width:200px;"/>
 
 
 ![1994-2000](/images/1994-2000.png)
