@@ -20,24 +20,25 @@ These dataset obtained from official website of Professional Darts Corporation.
 
 🔸 1994 - 2000
 
-
 <img src="/images/1994-2000.png" alt="1994-2000" style="height: 300px; width:400px;"/>
 
 
-![1994-2000](/images/1994-2000.png)
-
 🔸 2000 - 2006
 
-![2000-2006](/images/2000-2006.png)
+<img src="/images/2000-2006.png" alt="2000-2006" style="height: 300px; width:400px;"/>
+
 
 🔸 2006 - 2012
 
-![2006-2012](/images/2006-2012.png)
+<img src="/images/2006-2012.png" alt="2006-2012" style="height: 300px; width:400px;"/>
+
 
 🔸 2012 - 2018
 
-![2012-2018](/images/2012-2018.png)
+<img src="/images/2012-2018.png" alt="2012-2018" style="height: 300px; width:400px;"/>
+
 
 🔸 1994 - 2022
 
-![1994-2022](/images/1994-2022.png)
+<img src="/images/1994-2022.png" alt="1994-2022" style="height: 300px; width:400px;"/>
+
