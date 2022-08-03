@@ -42,4 +42,4 @@ These dataset obtained from official website of Professional Darts Corporation.
 
 <img src="/images/1994-2022.png" alt="1994-2022" style="height: 300px; width:400px;"/>
 
-NOTE : neigbor.npy file is a numpy array that has neigbor values for whole network. Briefly, It is an adjacency matrix for whole network.
+NOTE📔: neigbor.npy file is a numpy array that has neigbor values for whole network. Briefly, It is an adjacency matrix for whole network.
