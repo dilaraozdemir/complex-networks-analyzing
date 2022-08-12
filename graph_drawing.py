@@ -21,7 +21,7 @@ print(sum(df.duplicated()))
 a = df.loc[ (1994 <= df['tournament_year']) & (df['tournament_year'] <= 2022)]
 print(a)
 
-a.to_csv(r'D:\...s\1994-2022.csv', index=False)
+a.to_csv(r'D:\your path\1994-2022.csv', index=False)
 
 #%% Selecting specific year and drawing network
 
